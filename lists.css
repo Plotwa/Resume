@@ -1,0 +1,13 @@
+.hobbies ol:hover {
+  color: rgb(254, 254, 254);
+}
+.hobbies ol {
+  padding-left: 20px;
+}
+.work table thead {
+  padding: 0px;
+  margin: 0px;
+}
+.work table tr:hover:nth-child(1) {
+  background: rgb(60, 0, 255);
+}

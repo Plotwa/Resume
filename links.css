@@ -1,0 +1,25 @@
+a {
+  color: rgb(66, 27, 209);
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+a:hover {
+  color: red;
+  font-size: 30px;
+}
+a:active {
+  color: blueviolet;
+}
+.btn {
+  background: black;
+  color: rgb(1, 250, 92);
+  border: none;
+  padding: 10px 10px;
+  border-radius: 10%;
+  cursor: pointer;
+}
+.btn:hover {
+  opacity: 0.8;
+  color: orange;
+}
